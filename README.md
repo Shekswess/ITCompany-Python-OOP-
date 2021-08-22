@@ -15,5 +15,5 @@
 -For better planning I created a Diagram(it's not perfect but it helped me a lot when building it) for the classes I'm using in this Project.
 
 -To run the project you need to have python3 installed. You download the code and you open the folder where the code is using the command line. You write:
-#python main.py
+# python main.py
 You will be greeted with a "menu" what you can do with the system !
